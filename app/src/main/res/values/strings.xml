@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">DeadPencils</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="rewards">Rewards</string>
+    <string name="my_challenges">My Challenges</string>
+    <string name="challenge_feed">Challenge Feed</string>
+
 </resources>
