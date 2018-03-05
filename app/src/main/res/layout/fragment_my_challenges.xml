@@ -18,13 +18,13 @@
 
         <Button
             android:id="@+id/btn0"
-            android:layout_width="wrap_content"
+            android:layout_width="190dp"
             android:layout_height="wrap_content"
             android:text="Completed" />
 
         <Button
             android:id="@+id/btn1"
-            android:layout_width="wrap_content"
+            android:layout_width="189dp"
             android:layout_height="wrap_content"
             android:text="Upcoming" />
     </LinearLayout>

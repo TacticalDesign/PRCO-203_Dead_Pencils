@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PRCO-203_Dead_Pencils.iml" filepath="$PROJECT_DIR$/PRCO-203_Dead_Pencils.iml" />
+      <module fileurl="file://F:\Users\adamj\Documents\_CGD Stage 2\PROCO 203\PRCO-203_Dead_Pencils\PRCO-203_Dead_Pencils.iml" filepath="F:\Users\adamj\Documents\_CGD Stage 2\PROCO 203\PRCO-203_Dead_Pencils\PRCO-203_Dead_Pencils.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\Users\adamj\Documents\_CGD Stage 2\PROCO 203\PRCO-203_Dead_Pencils\app\app.iml" filepath="F:\Users\adamj\Documents\_CGD Stage 2\PROCO 203\PRCO-203_Dead_Pencils\app\app.iml" />
     </modules>
   </component>
 </project>
